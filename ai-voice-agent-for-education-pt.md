@@ -51,7 +51,9 @@ Este guia apresenta todas as etapas para criar e implantar um assistente de voz 
 ```bash
 npx create-next-app@latest nome-do-projeto
 cd nome-do-projeto
+```
 
+### 3.
 3. Instalar e Configurar o Tailwind CSS
 🕒 Tempo estimado: 15 minutos
 📋 Instruções:
