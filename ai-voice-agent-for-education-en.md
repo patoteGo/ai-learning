@@ -55,8 +55,7 @@ cd nome-do-projeto
 - with Tailwind
 - with Typescript
 
-### 3.
-3. Instalar e Shadcn
+### 3. Install Shadcn
 🕒 Estimated time: 5 minutes
 📋 Instructions:
 
@@ -106,6 +105,7 @@ STACK_SECRET_SERVER_KEY=<your-secret-server-key>
 ```
 
 
+
 5. Add Convex to the backend
 🕒 Estimated time: 5 minutes
 📦 Requirement:
@@ -134,33 +134,34 @@ signup in https://www.assemblyai.com/
 
 Pegue sua chave de API
 
-bash
-Copy
-Edit
+```bash
 npm install assemblyai
-Configure o SDK no seu projeto
+```
+
+configure SDK for your project
 
 7. Develop the App
 
 🕒 Estimated time: 2-3 hours
-📦 Requirements:
 
-Protótipos ou design (opcional)
+in this part you can start add the screen need it for the app
+
+### Dashboard
+![image](https://github.com/user-attachments/assets/06301e92-6ff5-4090-8660-cecde60397e9)
+
+### Ai input dialog
+![image](https://github.com/user-attachments/assets/555f1ca7-92e8-484e-ae8b-6b157cab39dd)
+
+
 
 📋 Instructions:
 
-Construa os componentes de UI com React + Tailwind CSS
+Build the components with tailwind css , shadcn and React
+use the logic of convex for the database
 
-Utilize Convex para lógica e banco de dados
+Integrate AssemblyAI for the transcription of voice
 
-Integre AssemblyAI para transcrição de voz
 
-Teste localmente com:
-
-bash
-Copy
-Edit
-npm run dev
 7. Publish the App
 
 🕒 Tempo estimado: 50 minutos
