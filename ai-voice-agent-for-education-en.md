@@ -152,6 +152,8 @@ in this part you can start add the screen need it for the app
 ### Ai input dialog
 ![image](https://github.com/user-attachments/assets/555f1ca7-92e8-484e-ae8b-6b157cab39dd)
 
+### Discussion room
+![image](https://github.com/user-attachments/assets/ad8c5e90-77a1-4dcf-b2fd-a245c3ac4502)
 
 
 📋 Instructions:
